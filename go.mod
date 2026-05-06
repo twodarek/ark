@@ -11,7 +11,7 @@ require (
 	github.com/evanphx/json-patch v4.5.0+incompatible
 	github.com/gobwas/glob v0.2.3
 	github.com/gofrs/uuid v3.2.0+incompatible
-	github.com/golang/protobuf v1.4.2
+	github.com/golang/protobuf v1.5.0
 	github.com/hashicorp/go-hclog v0.0.0-20180709165350-ff2cf002a8dd
 	github.com/hashicorp/go-plugin v0.0.0-20190610192547-a1bc61569a26
 	github.com/joho/godotenv v1.3.0
@@ -92,7 +92,7 @@ require (
 	gomodules.xyz/jsonpatch/v2 v2.0.1 // indirect
 	google.golang.org/appengine v1.6.1 // indirect
 	google.golang.org/genproto v0.0.0-20191220175831-5c49e3ecc1c1 // indirect
-	google.golang.org/protobuf v1.23.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
